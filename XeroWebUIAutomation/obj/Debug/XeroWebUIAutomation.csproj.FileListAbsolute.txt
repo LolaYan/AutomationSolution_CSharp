@@ -1,0 +1,13 @@
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroWebUIAutomation\bin\Debug\IEDriverServer.exe
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroWebUIAutomation\bin\Debug\XeroWebUIAutomation.dll.config
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroWebUIAutomation\bin\Debug\XeroWebUIAutomation.dll
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroWebUIAutomation\bin\Debug\XeroWebUIAutomation.pdb
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroWebUIAutomation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroWebUIAutomation\bin\Debug\WebDriver.dll
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroWebUIAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroWebUIAutomation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroWebUIAutomation\bin\Debug\WebDriver.xml
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroWebUIAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroWebUIAutomation\obj\Debug\XeroWebUIAutomation.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroWebUIAutomation\obj\Debug\XeroWebUIAutomation.dll
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroWebUIAutomation\obj\Debug\XeroWebUIAutomation.pdb

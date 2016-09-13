@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="XeroWebUIAutomation.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Browser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">chrome</Value>
+    </Setting>
+    <Setting Name="LoginUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://login.xero.com/</Value>
+    </Setting>
+    <Setting Name="RemoteExecution" Type="System.String" Scope="User">
+      <Value Profile="(Default)">false</Value>
+    </Setting>
+    <Setting Name="DriversLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Drivers</Value>
+    </Setting>
+    <Setting Name="timeWaitInSeconds" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="UserEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">lolayan@outlook.com</Value>
+    </Setting>
+    <Setting Name="UserPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">password123</Value>
+    </Setting>
+    <Setting Name="DashboardUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://go.xero.com/Dashboard/</Value>
+    </Setting>
+    <Setting Name="SalesUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://go.xero.com/Accounts/Receivable/Dashboard/</Value>
+    </Setting>
+    <Setting Name="SignupUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.xero.com/nz/signup/</Value>
+    </Setting>
+    <Setting Name="APIPreviewUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://app.xero.com/Preview</Value>
+    </Setting>
+    <Setting Name="DisconnectFromXero" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://app.xero.com/Previewer/DisconnectFromXero</Value>
+    </Setting>
+    <Setting Name="SetupOAuthConnection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://app.xero.com/Previewer/SetupOAuthConnection</Value>
+    </Setting>
+    <Setting Name="Url" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://login.xero.com/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

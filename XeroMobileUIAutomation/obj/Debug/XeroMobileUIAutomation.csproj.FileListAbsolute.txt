@@ -1,0 +1,15 @@
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroMobileUIAutomation\bin\Debug\XeroMobileUIAutomation.dll
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroMobileUIAutomation\bin\Debug\XeroMobileUIAutomation.pdb
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroMobileUIAutomation\bin\Debug\appium-dotnet-driver.dll
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroMobileUIAutomation\bin\Debug\Castle.Core.dll
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroMobileUIAutomation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroMobileUIAutomation\bin\Debug\WebDriver.dll
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroMobileUIAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroMobileUIAutomation\bin\Debug\appium-dotnet-driver.xml
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroMobileUIAutomation\bin\Debug\Castle.Core.xml
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroMobileUIAutomation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroMobileUIAutomation\bin\Debug\WebDriver.xml
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroMobileUIAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroMobileUIAutomation\obj\Debug\XeroMobileUIAutomation.dll
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroMobileUIAutomation\obj\Debug\XeroMobileUIAutomation.pdb
+C:\Users\User\documents\visual studio 2013\Projects\AutomationSolution\XeroMobileUIAutomation\obj\Debug\XeroMobileUIAutomation.csprojResolveAssemblyReference.cache

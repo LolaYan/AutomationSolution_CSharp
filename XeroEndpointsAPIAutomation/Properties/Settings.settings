@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="XeroEndpointsAPIAutomation.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="XeroAppName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AppDemo1</Value>
+    </Setting>
+    <Setting Name="ConsumerKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NN2UXHFSN9BKVUJ0VQT6YF31ZNWSHU</Value>
+    </Setting>
+    <Setting Name="ConsumerSecret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AJBXRTVGBZ4YOPRI8QAWBWPYA50RX6</Value>
+    </Setting>
+    <Setting Name="RequestTokenURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://api.xero.com/oauth/RequestToken</Value>
+    </Setting>
+    <Setting Name="AuthoriseURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://api.xero.com/oauth/Authorize</Value>
+    </Setting>
+    <Setting Name="AccessTokenURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://api.xero.com/oauth/AccessToken</Value>
+    </Setting>
+    <Setting Name="APIEndpointURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://api.xero.com/api.xro/2.0/</Value>
+    </Setting>
+    <Setting Name="OAuthCallbackDomain" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="baseURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://api.xero.com</Value>
+    </Setting>
+    <Setting Name="timeWaitInSeconds" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="XeroLoginUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://login.xero.com/</Value>
+    </Setting>
+    <Setting Name="XeroUserEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">lolayan@outlook.com</Value>
+    </Setting>
+    <Setting Name="XeroUserPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">password123</Value>
+    </Setting>
+    <Setting Name="XeroDashboardUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://go.xero.com/Dashboard/</Value>
+    </Setting>
+    <Setting Name="XeroDemoOrgDashboardUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://my.xero.com//Action/OrganisationLogin/!Rbg3D</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XeroWebUIAutomation", "XeroWebUIAutomation\XeroWebUIAutomation.csproj", "{349819F0-84AA-4106-8A35-87B5F143FB46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XeroEndpointsAPIAutomation", "XeroEndpointsAPIAutomation\XeroEndpointsAPIAutomation.csproj", "{9B0BE51D-6836-404F-AE5B-53E66DB1FF75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XeroAutomationConsoleApplication", "XeroAutomationConsoleApplication\XeroAutomationConsoleApplication.csproj", "{323670BA-AA2F-4414-A7FE-BEF810763D8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XeroMobileUIAutomation", "XeroMobileUIAutomation\XeroMobileUIAutomation.csproj", "{A7416A25-2C86-42A6-A0F3-FD624186A0BB}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://lolayan.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = XeroWebUIAutomation\\XeroWebUIAutomation.csproj
+		SccProjectName1 = XeroWebUIAutomation
+		SccLocalPath1 = XeroWebUIAutomation
+		SccProjectUniqueName2 = XeroEndpointsAPIAutomation\\XeroEndpointsAPIAutomation.csproj
+		SccProjectName2 = XeroEndpointsAPIAutomation
+		SccLocalPath2 = XeroEndpointsAPIAutomation
+		SccProjectUniqueName3 = XeroAutomationConsoleApplication\\XeroAutomationConsoleApplication.csproj
+		SccProjectName3 = XeroAutomationConsoleApplication
+		SccLocalPath3 = XeroAutomationConsoleApplication
+		SccProjectUniqueName4 = XeroMobileUIAutomation\\XeroMobileUIAutomation.csproj
+		SccProjectName4 = XeroMobileUIAutomation
+		SccLocalPath4 = XeroMobileUIAutomation
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{349819F0-84AA-4106-8A35-87B5F143FB46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{349819F0-84AA-4106-8A35-87B5F143FB46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{349819F0-84AA-4106-8A35-87B5F143FB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{349819F0-84AA-4106-8A35-87B5F143FB46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B0BE51D-6836-404F-AE5B-53E66DB1FF75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0BE51D-6836-404F-AE5B-53E66DB1FF75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0BE51D-6836-404F-AE5B-53E66DB1FF75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0BE51D-6836-404F-AE5B-53E66DB1FF75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{323670BA-AA2F-4414-A7FE-BEF810763D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323670BA-AA2F-4414-A7FE-BEF810763D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323670BA-AA2F-4414-A7FE-BEF810763D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323670BA-AA2F-4414-A7FE-BEF810763D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7416A25-2C86-42A6-A0F3-FD624186A0BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7416A25-2C86-42A6-A0F3-FD624186A0BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7416A25-2C86-42A6-A0F3-FD624186A0BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7416A25-2C86-42A6-A0F3-FD624186A0BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
